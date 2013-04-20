@@ -92,11 +92,6 @@ public class Preferences extends PreferenceActivity
         while (i < headers.size()) {
             Header header = headers.get(i);
 
-            // Version preference
-            if (header.id == R.id.preferences_application_version) {
-                header.title = getString(R.string.application_name) + " " + getString(R.string.application_version);
-            }
-
             // Increment if not removed
             if (headers.get(i) == header) {
                 i++;
