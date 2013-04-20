@@ -21,11 +21,11 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name" translatable="false">Trebuchet</string>
+    <string name="application_name" translatable="false">Trebuchet CODEX Edition</string>
     <!-- Application copyright -->
-    <string name="application_copyright">Copyright \u00A9 CyanogenMod 2013</string>
+    <string name="application_copyright">CyanogenMod And DroidTh3ory</string>
     <!-- Application version -->
-    <string name="application_version">1.0</string>
+    <string name="application_version">Slim</string>
     <!-- Accessibility-facing application name -->
     <string name="home">Home</string>
     <!-- Name for all applications running as this uid. -->
@@ -392,8 +392,8 @@ s -->
     <string name="preferences_interface_icons_title">Icons</string>
 
     <!-- General -->
-    <string name="preferences_interface_general_title">General</string>
-    <string name="preferences_interface_general_summary">Option for app drawer</string>
+    <string name="preferences_interface_general_title">Display</string>
+    <string name="preferences_interface_general_summary">Rotation Options</string>
     <string name="preferences_interface_general_orientation_title">Auto-rotate screen</string>
     <string name="preferences_interface_general_fullscreen_title">Fullscreen mode</string>
     <string name="preferences_interface_general_fullscreen_summary">Hide the status bar to extend the homescreen</string>

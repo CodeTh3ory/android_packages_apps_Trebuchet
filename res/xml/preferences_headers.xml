@@ -36,4 +36,10 @@
             android:title="@string/preferences_interface_general_title"
             android:summary="@string/preferences_interface_general_summary" />
 
+    <header android:id="@+id/preferences_application_section"
+            android:title="@string/preferences_application_title" />
+
+    <header android:id="@+id/preferences_application_version"
+            android:summary="@string/application_copyright" />
+
 </preference-headers>
