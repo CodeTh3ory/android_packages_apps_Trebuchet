@@ -32,12 +32,6 @@
     <string name="uid_name">Android Core Apps</string>
     <!-- Default folder name -->
     <string name="folder_name"></string>
-    <!-- Title of dialog that appears after user selects Wallpaper from menu -->
-    <string name="chooser_wallpaper">Choose wallpaper from</string>
-    <!-- Button label on Wallpaper Gallery screen; user selects this button to set a specific wallpaper -->
-    <string name="wallpaper_instructions">Set wallpaper</string>
-    <!-- Option in "Select wallpaper from" dialog box -->
-    <string name="pick_wallpaper">Wallpapers</string>
     <!-- Displayed when user selects a shortcut for an app that was uninstalled [CHAR_LIMIT=none]-->
     <string name="activity_not_found">App isn\'t installed.</string>
     <!--  Labels for the tabs in the customize drawer -->
@@ -380,6 +374,7 @@ s -->
 
     <!-- Dock -->
     <string name="preferences_interface_dock_title">Dock</string>
+    <string name="preferences_interface_dock_summary">Manage Dock settings</string>
     <string name="preferences_interface_dock_enabled_title">Show dock</string>
     <string name="preferences_interface_dock_enabled_summary">Show the dock underneath the homescreen</string>
     <string name="preferences_interface_dock_pages_title">Pages</string>
@@ -398,6 +393,7 @@ s -->
 
     <!-- General -->
     <string name="preferences_interface_general_title">General</string>
+    <string name="preferences_interface_general_summary">Option for app drawer</string>
     <string name="preferences_interface_general_orientation_title">Auto-rotate screen</string>
     <string name="preferences_interface_general_fullscreen_title">Fullscreen mode</string>
     <string name="preferences_interface_general_fullscreen_summary">Hide the status bar to extend the homescreen</string>
