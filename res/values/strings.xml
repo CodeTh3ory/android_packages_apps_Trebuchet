@@ -21,11 +21,11 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name" translatable="false">Trebuchet CODEX Edition</string>
+    <string name="application_name" translatable="false">Trebuchet AXI0M Edition</string>
     <!-- Application copyright -->
     <string name="application_copyright">CyanogenMod And DroidTh3ory</string>
     <!-- Application version -->
-    <string name="application_version">Slim</string>
+    <string name="application_version">Lite</string>
     <!-- Accessibility-facing application name -->
     <string name="home">Home</string>
     <!-- Name for all applications running as this uid. -->
